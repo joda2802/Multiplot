@@ -5,7 +5,7 @@ import re
 print('parametric3D')
 
 #the most used math functions
-funcs=['sin','cos','tan','arcsin','arccos','arctan','sinh','cosh','tanh','arcsinh','arccosh','arctanh','exp','log','log2','log10']
+funcs=['sin','cos','tan','arcsin','arccos','arctan','sinh','cosh','tanh','arcsinh','arccosh','arctanh','exp','log','log2','log10','sqrt']
 
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
