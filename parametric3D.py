@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 import re
+print('parametric3D')
 
 #the most used math functions
 funcs=['sin','cos','tan','arcsin','arccos','arctan','sinh','cosh','tanh','arcsinh','arccosh','arctanh','exp','log','log2','log10']
